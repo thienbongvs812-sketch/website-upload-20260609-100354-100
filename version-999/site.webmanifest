@@ -1,0 +1,8 @@
+{
+  "name": "电影影视大全",
+  "short_name": "电影影视大全",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563eb"
+}
